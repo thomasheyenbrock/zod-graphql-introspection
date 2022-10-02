@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "types",
+    "lib": ["ESNext"],
+    "strict": true
+  },
+  "include": ["src"],
+  "exclude": ["src/**/*.test.ts"]
+}
